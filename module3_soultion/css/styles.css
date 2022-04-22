@@ -1,0 +1,31 @@
+*{font-family:Arial, Helvetica, sans-serif
+}
+
+hr {
+    margin:5px;
+}
+
+#header-nav{
+    background-color: aquamarine;
+}
+#logo {
+    font-size: 25px;
+}
+#foodlist{
+    font-size: 15px;
+    text-align: center;
+
+}
+.navbar-header buttom.navbar-toggle, .navbar-header .icon-bar {
+border:1px solid #000000;
+}
+h2{font-size: 25px;
+    font-weight: 250;
+}
+#section{
+    background-color: rgb(238, 237, 216);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    height: 1000px;
+
+}
